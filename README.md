@@ -10,6 +10,14 @@ I am also keen on learning about how RL agents can incorporate inputs from diffe
 
 Currently, I am looking at how to intergate autoregressive language models with models from different domains to make them more interpretable by allowing them to give natural language explanations about their working.
 
+### Sometimes I write about ML
+
+1. [OpenAI CLIP](https://mlbykartik.com/ml/clip/2021/08/25/clip-model.html)
+2. [Transformer Models](https://mlbykartik.com/ml/transformer/2021/07/25/transformers.html)
+3. [Generative Adversarial Networks](https://mlbykartik.com/ml/gan/2021/06/01/gans.html)
+
+For more please visit [my website](https://www.mlbykartik.com/).
+
 ## Find me on social media
 
 <a href="https://www.linkedin.com/in/kartik727/">
@@ -39,11 +47,3 @@ Currently, I am looking at how to intergate autoregressive language models with 
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-### Sometimes I write about ML
-
-1. [OpenAI CLIP](https://mlbykartik.com/ml/clip/2021/08/25/clip-model.html)
-2. [Transformer Models](https://mlbykartik.com/ml/transformer/2021/07/25/transformers.html)
-3. [Generative Adversarial Networks](https://mlbykartik.com/ml/gan/2021/06/01/gans.html)
-
-For more please visit [my website](https://www.mlbykartik.com/).
