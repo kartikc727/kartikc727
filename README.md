@@ -40,12 +40,10 @@ Currently, I am looking at how to intergate autoregressive language models with 
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+### Sometimes I write about ML
 
-This readme is under construction.
+1. [OpenAI CLIP](https://mlbykartik.com/ml/clip/2021/08/25/clip-model.html)
+2. [Transformer Models](https://mlbykartik.com/ml/transformer/2021/07/25/transformers.html)
+3. [Generative Adversarial Networks](https://mlbykartik.com/ml/gan/2021/06/01/gans.html)
 
-In the meantime please visit my website [mlbykartik.com](https://www.mlbykartik.com/) (which is also under construction).
-
-<!---
-kartik727/kartik727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For more please visit [my website](https://www.mlbykartik.com/).
