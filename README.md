@@ -2,13 +2,10 @@
 
 # Hello there
 
-I am Kartik Choudhary - a machine learning engineer and data scientist. I like working with language models, understanding how the current state-of-the-art models work and trying to figure out how to use them in novel ways. 
+I am Kartik Choudhary - incoming graduate student in the College of Information and Computer Science at the University of Massachusetts Amherst. 
 
-I am also keen on learning about how RL agents can incorporate inputs from different modalities together to get information about their state.
-
-### What am I currently working on?
-
-Currently, I am looking at how to intergate autoregressive language models with models from different domains to make them more interpretable by allowing them to give natural language explanations about their working.
+My interests include Natural Language Processing and Reinforcement Learning. Specifically, I want to build tools that make technology more accessible and universal.
+I like working with language models, understanding how the current state-of-the-art models work and trying to figure out how to use them in novel ways. 
 
 ### Sometimes I write about ML
 
