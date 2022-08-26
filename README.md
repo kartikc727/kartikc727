@@ -2,7 +2,7 @@
 
 # Hello there
 
-I am Kartik Choudhary - incoming graduate student in the College of Information and Computer Science at the University of Massachusetts Amherst. 
+I am Kartik Choudhary - graduate student in the College of Information and Computer Science at the University of Massachusetts Amherst. 
 
 My interests include Natural Language Processing and Reinforcement Learning. Specifically, I want to build tools that make technology more accessible and universal.
 I like working with language models, understanding how the current state-of-the-art models work and trying to figure out how to use them in novel ways. 
