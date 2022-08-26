@@ -7,6 +7,8 @@ I am Kartik Choudhary - graduate student in the College of Information and Compu
 My interests include Natural Language Processing and Reinforcement Learning. Specifically, I want to build tools that make technology more accessible and universal.
 I like working with language models, understanding how the current state-of-the-art models work and trying to figure out how to use them in novel ways. 
 
+I am currently open to internship offers in the machine learning and NLP domains.
+
 ### Sometimes I write about ML
 
 1. [OpenAI CLIP](https://mlbykartik.com/ml/clip/2021/08/25/clip-model.html)
